@@ -1,0 +1,52 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "pmAbi2NmKJLAqvkZBqy9Q4EuWRY=",
+			"path": "github.com/lignyxg/crypto/sm2",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "00CnVmGS0Qia3l1bOHvqxnvJAjE=",
+			"path": "github.com/lignyxg/crypto/sm3",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "48HaaZGSoK7fj31pod++wtikr+A=",
+			"path": "github.com/lignyxg/crypto/x509",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "FplhS/qgoLitr1CDiqUwKI8c0nM=",
+			"path": "github.com/tjfoc/gmsm/sm3",
+			"revision": "ce7d086b4323414e15f5f5a5e4ca87f2df41b287",
+			"revisionTime": "2020-03-03T02:56:57Z"
+		},
+		{
+			"checksumSHA1": "gVGYZSxhj+rNQbfwJRJizQ53WGg=",
+			"path": "golang.org/x/crypto/cryptobyte",
+			"revision": "f7b00557c8c46a1ea4b035cae84f52028c2c0564",
+			"revisionTime": "2020-03-11T13:15:05Z"
+		},
+		{
+			"checksumSHA1": "YEoV2AiZZPDuF7pMVzDt7buS9gc=",
+			"path": "golang.org/x/crypto/cryptobyte/asn1",
+			"revision": "f7b00557c8c46a1ea4b035cae84f52028c2c0564",
+			"revisionTime": "2020-03-11T13:15:05Z"
+		},
+		{
+			"checksumSHA1": "hlks4jsbqCXhq5HN0KUMkm4V8kk=",
+			"path": "golang.org/x/crypto/ripemd160",
+			"revision": "f7b00557c8c46a1ea4b035cae84f52028c2c0564",
+			"revisionTime": "2020-03-11T13:15:05Z"
+		},
+		{
+			"checksumSHA1": "vu94bhEYWNO4e5Q4h0ZhAd0ekRE=",
+			"path": "golang.org/x/sys/cpu",
+			"revision": "5c8b2ff67527cb88b770f693cebf3799036d8bc0",
+			"revisionTime": "2020-03-02T10:13:05Z"
+		}
+	],
+	"rootPath": "github.com/hyperledger/fabric"
+}
