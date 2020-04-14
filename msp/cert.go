@@ -19,11 +19,11 @@ package msp
 import (
 	"bytes"
 	"crypto/ecdsa"
-	"crypto/x509"
 	"crypto/x509/pkix"
 	"encoding/asn1"
 	"encoding/pem"
 	"fmt"
+	"github.com/lignyxg/crypto/x509"
 	"math/big"
 	"time"
 
